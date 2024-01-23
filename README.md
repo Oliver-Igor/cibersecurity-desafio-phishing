@@ -14,5 +14,6 @@
 * Obtendo o endereço da máquina: ifconfig
 * URL para clone: http://www.facebook.com
 
-## Resultados
-![Resultado](https://github.com/Oliver-Igor/cibersecurity-desafio-phishing/issues/1#issue-2097084460)
+## Resultado
+
+<img src="https://github.com/Oliver-Igor/cibersecurity-desafio-phishing/assets/80131918/12a4f8ed-331d-4139-99aa-c05de6251be9" width="500px"/>
